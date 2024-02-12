@@ -9,6 +9,7 @@ Bootstrap for a responsive and clean user interface
 
 🚨 Important Notes:
 
+Ignore test folder
 Make sure to download the DataTables library from datatables.net and include it in your project.
 Bootstrap CDN is used in this tutorial; you can download and host it locally if needed.
 Customize the code according to your project's structure and requirements.
